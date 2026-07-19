@@ -1,0 +1,6 @@
+&nbsp
+{use to custum gap }
+
+use gsap for enimation 
+{command npm i gsap} for gsap 
+{command npm i @gsap/react} for use gsap with react dependency 
